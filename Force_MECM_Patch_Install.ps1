@@ -1,6 +1,4 @@
 #################################################
-# Standardized Powershell Script Template v1.0
-#
 # Script Creator:
 # Paul Arquette
 #
